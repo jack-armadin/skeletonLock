@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.csv
+*.xlsx
+*.json
+.env
+.DS_Store
+spiritwalker2.py
+roles2.json
+*.txt
+*.html
+config.json
+*.png

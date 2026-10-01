@@ -1,0 +1,19 @@
+{
+    "default_ignore_patterns": [
+    "logout", "signout", "log-out", "sign-out", "exit", "kill_session", "login/keluar", "delete", "reject",
+    "remove", "destroy", "terminate", "purge", "drop", "truncate", "clear", "logoff", "log-off", "log off",
+    "cancel", "stop", "quit", "leave", "invalidate", "revoke",
+    "disable", "deactivate", "suspend", "unlink", "reset", "reset-password",
+    "confirm", "approve", "verify", "toggle", "switch", "archive", "restore",
+    "salir", "quitter", "abmelden", "afmelden", "ha_sznalo_torlese", "/socket.io/",
+    "/sockjs/", "websocket", "__webpack_hmr", "browser-sync", "hot-update", "telemetry", "metrics", "frappe.desk.doctype.event.event.get_events", "frappe.desk.doctype.notification_log.notification_log.get_notification_logs"
+    ],
+    "google_api_key": "APIKEYHERE",
+    "gemini_model": "gemini-3-flash-preview",
+    "gemini_verify_model": "gemini-3.1-pro-preview",
+    "verify_provider": "anthropic",
+    "openai_api_key": "APIKEYHERE",
+    "openai_verify_model": "gpt-5.5",
+    "anthropic_api_key": "APIKEYHERE",
+    "anthropic_verify_model": "claude-sonnet-4-6"
+}
