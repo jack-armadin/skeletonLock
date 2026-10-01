@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cli-ares --help)",
+      "Bash(ares attacks *)",
+      "Bash(ares auth *)",
+      "Bash(ares login *)",
+      "Bash(file *.xlsx)",
+      "Bash(python3)",
+      "Bash(cd /Users/jackfe/Projects && find SkeletonKey -type f -not -path \"*/.venv/*\" -not -path \"*/__pycache__/*\" -not -path \"*/.git/*\" | sort)",
+      "Read(//Users/jackfe/Projects/**)",
+      "Bash(cd /Users/jackfe/Projects && cp -r SkeletonKey SkelKeyExper && echo \"✓ Copied SkeletonKey to SkelKeyExper\" && du -sh SkelKeyExper)",
+      "Bash(python -m py_compile skeletonkey.py)",
+      "Bash(python3 -m py_compile skeletonkey.py)"
+    ]
+  }
+}

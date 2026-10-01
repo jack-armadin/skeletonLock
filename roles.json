@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Administrator",
+        "cookies": {
+            "sid": "8fe51c3939fc7fb4d89ffb57e30b08c8998b7560bd2e3e29ea5c4e24",
+            "system_user": "yes",
+            "full_name": "Armadin",
+            "user_id": "administrator@grid.local",
+            "user_image": "/private/files/2026-01-16%2016_51_39-Greenshot.png",
+            "user_lang": "en"
+            }
+    },
+    {
+        "name": "Customer",
+        "cookies": {
+            "sid": "bef4b2eab5c8b75a6b46dd6a6a99c22929a54b5abff932a642610e50",
+            "system_user": "no",
+            "full_name": "Armadin",
+            "user_id": "administrator@grid.local",
+            "user_image": "/private/files/2026-01-16%2016_51_39-Greenshot.png",
+            "user_lang": "en"
+            }
+    },
+    {
+        "name": "No Role User",
+        "cookies": {
+            "sid": "5dc218cea86590f377fa38a86e2090d52cd0ff3ff6a7546ffbb88407",
+            "system_user": "no",
+            "full_name": "Armadin",
+            "user_id": "administrator@grid.local",
+            "user_image": "/private/files/2026-01-16%2016_51_39-Greenshot.png",
+            "user_lang": "en"
+            }
+    },
+    {
+        "name": "Unauthenticated",
+        "cookies": {}
+    }
+]
